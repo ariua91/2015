@@ -1,3 +1,7 @@
+# self defined folders
+vids/
+Vid HTMLS/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
